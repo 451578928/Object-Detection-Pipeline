@@ -1,3 +1,11 @@
 */__pycache__
 *.pyc
 venv/
+
+# Pre-defined folder structure
+input_images/
+labelled_xml_data/
+csv_data_and_classes/
+tfrecords/
+model_training/
+trained_model/
